@@ -17,7 +17,7 @@ Mental health issues among university students present a critical challenge impa
 
 ## c. StreamLit Link
 
-[https://github.com/harshprateek39/ML-assignment]
+[https://ml-assignment-skj5gfejuwqzpe5k3z2fjt.streamlit.app]
 
 ## d. Models Used & Comparison Table
 
