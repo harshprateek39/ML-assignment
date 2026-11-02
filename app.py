@@ -11,7 +11,7 @@ from sklearn.metrics import (
 )
 
 st.set_page_config(page_title="Student Depression Classifier (2626AJ05353)", layout="wide")
-st.title("🎓 Student Depression Classification App")
+st.title("Student Depression Classification App (2626AJ05353)")
 st.write("Upload test data, select a trained model, and evaluate performance dynamically.")
 
 # Model selector dropdown
