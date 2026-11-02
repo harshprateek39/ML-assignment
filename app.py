@@ -10,7 +10,7 @@ from sklearn.metrics import (
     confusion_matrix, classification_report
 )
 
-st.set_page_config(page_title="Student Depression Classifier", layout="wide")
+st.set_page_config(page_title="Student Depression Classifier (2626AJ05353)", layout="wide")
 st.title("🎓 Student Depression Classification App")
 st.write("Upload test data, select a trained model, and evaluate performance dynamically.")
 
