@@ -10,7 +10,7 @@ Mental health issues among university students present a critical challenge impa
 - **Target Variable:** `Depression` (`Yes` / `No`)
 
 ## c. GitHub Repository Link
-[Insert Your GitHub Repository URL Here]
+[https://github.com/harshprateek39/ML-assignment]
 
 ## d. Models Used & Comparison Table
 
